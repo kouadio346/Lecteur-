@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VoxLect</string>
+    <string name="process_text_action_label">Lire avec VoxLect</string>
+    <string name="accessibility_service_label">Sélecteur VoxLect</string>
+    <string name="accessibility_service_description">Permet à VoxLect de détecter et lire le texte que vous sélectionnez sur votre écran dans n\'importe quelle application.</string>
+    <string name="notification_channel_name">Lecture vocale &amp; superposition</string>
+    <string name="notification_channel_description">Maintient la bulle flottante et la lecture audio actives en arrière-plan.</string>
+    <string name="notification_title_active">VoxLect actif en arrière-plan</string>
+    <string name="notification_text_idle">Touchez la bulle flottante pour sélectionner un texte</string>
+    <string name="notification_text_speaking">Lecture en cours…</string>
+    <string name="notification_text_translating">Traduction en temps réel…</string>
+    <string name="action_stop">Arrêter</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Reprendre</string>
+    <string name="action_open_selector">Sélecteur</string>
+</resources>

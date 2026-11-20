@@ -1,0 +1,6 @@
+{
+  "name": "VoxLect",
+  "description": "Lecteur vocal universel avec superposition flottante, sélecteur d'écran, contrôle de vitesse, choix de voix et traduction en temps réel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
